@@ -1,0 +1,5 @@
+D:\GIT\JenkinsTutorial\VIsualStudioApp\JenkinsTestApp\bin\Debug\JenkinsTestApp.exe
+D:\GIT\JenkinsTutorial\VIsualStudioApp\JenkinsTestApp\bin\Debug\JenkinsTestApp.pdb
+D:\GIT\JenkinsTutorial\VIsualStudioApp\JenkinsTestApp\obj\x86\Debug\JenkinsTestApp.csprojResolveAssemblyReference.cache
+D:\GIT\JenkinsTutorial\VIsualStudioApp\JenkinsTestApp\obj\x86\Debug\JenkinsTestApp.exe
+D:\GIT\JenkinsTutorial\VIsualStudioApp\JenkinsTestApp\obj\x86\Debug\JenkinsTestApp.pdb
